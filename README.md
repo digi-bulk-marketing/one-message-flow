@@ -1,9 +1,14 @@
 # One Message Flow
 
-- Rebranding ID: 67bdc7f47e165b91831eae09
-- User ID: 6744bd33030c0323ca44d10d
-- App name: One Message Flow
-- Product name: Button Sender
+One Message Flow by One Message Flow.
 
-App logo: https://api.digibulkmarketing.com/media/rebranding/one-message-flow/logo.png
-![App Logo](https://api.digibulkmarketing.com/media/rebranding/one-message-flow/logo.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/one-message-flow/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **One Message Flow** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/one-message-flow/releases/latest) and reinstall.
